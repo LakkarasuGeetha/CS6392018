@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_dollar">DOLLAR</string>
+    <string name="hint_francs">FRANCS</string>
+    <string name="curerency_value">1 INR = 439.36 FRANCS</string>
+</resources>
